@@ -1,0 +1,182 @@
+[
+  {
+    "id": "painting1",
+    "title": "Mona Lisa",
+    "description": "Een wereldberoemd portret van een vrouw met een raadselachtige glimlach, geschilderd door Leonardo da Vinci tijdens de Italiaanse Renaissance.",
+    "yearCompleted": 1503,
+    "isRestored": true,
+    "painterBirthDate": "1452-04-15",
+    "imageUrl": "",
+    "artMovement": "Renaissance",
+    "dominantColors": ["Oker", "Donkergroen", "Zwart", "Aardetinten", "Huidskleur"],
+    "museumData": {
+      "id": "museum1",
+      "name": "Musée du Louvre",
+      "city": "Parijs",
+      "hasAudioTour": true,
+      "floorPlanImage": ""
+    }
+  },
+  {
+    "id": "painting2",
+    "title": "De Sterrennacht",
+    "description": "Een postimpressionistisch meesterwerk dat de nachtelijke hemel boven Saint-Rémy-de-Provence weergeeft met kolkende sterren en een heldere maan.",
+    "yearCompleted": 1889,
+    "isRestored": false,
+    "painterBirthDate": "1853-03-30",
+    "imageUrl": "",
+    "artMovement": "Postimpressionisme",
+    "dominantColors": ["Ultramarijn", "Kobaltblauw", "Zinkgeel", "Cyaan", "Diepzwart"],
+    "museumData": {
+      "id": "museum2",
+      "name": "Museum of Modern Art",
+      "city": "New York",
+      "hasAudioTour": true,
+      "floorPlanImage": ""
+    }
+  },
+  {
+    "id": "painting3",
+    "title": "Meisje met de parel",
+    "description": "Een iconische tronie van Johannes Vermeer, waarbij de focus ligt op de lichtinval op de parel en de tulband van het meisje.",
+    "yearCompleted": 1665,
+    "isRestored": true,
+    "painterBirthDate": "1632-10-31",
+    "imageUrl": "",
+    "artMovement": "Barok",
+    "dominantColors": ["Parelmoer", "Pruisisch blauw", "Okergeel", "Zwart", "Roomwit"],
+    "museumData": {
+      "id": "museum3",
+      "name": "Mauritshuis",
+      "city": "Den Haag",
+      "hasAudioTour": true,
+      "floorPlanImage": ""
+    }
+  },
+  {
+    "id": "painting4",
+    "title": "Guernica",
+    "description": "Een monumentaal zwart-wit werk van Picasso dat de gruwelen van de oorlog en het lijden van mens en dier verbeeldt.",
+    "yearCompleted": 1937,
+    "isRestored": false,
+    "painterBirthDate": "1881-10-25",
+    "imageUrl": "",
+    "artMovement": "Kubisme",
+    "dominantColors": ["Leigrijs", "Houtskool", "Ivoorwit", "Zwart", "Zilver"],
+    "museumData": {
+      "id": "museum4",
+      "name": "Museo Reina Sofía",
+      "city": "Madrid",
+      "hasAudioTour": true,
+      "floorPlanImage": ""
+    }
+  },
+  {
+    "id": "painting5",
+    "title": "De Nachtwacht",
+    "description": "Rembrandts grootste en beroemdste doek, bekend om het meesterlijke gebruik van licht en schaduw in een groepsportret van de schutterij.",
+    "yearCompleted": 1642,
+    "isRestored": true,
+    "painterBirthDate": "1606-07-15",
+    "imageUrl": "",
+    "artMovement": "Barok",
+    "dominantColors": ["Goudgeel", "Donkerbruin", "Scharlakenrood", "Zwart", "Amber"],
+    "museumData": {
+      "id": "museum5",
+      "name": "Rijksmuseum",
+      "city": "Amsterdam",
+      "hasAudioTour": true,
+      "floorPlanImage": ""
+    }
+  },
+  {
+    "id": "painting6",
+    "title": "De Schreeuw",
+    "description": "Een expressieve weergave van existentiële angst, waarbij de golvende lijnen in de lucht de innerlijke emotie van de figuur versterken.",
+    "yearCompleted": 1893,
+    "isRestored": true,
+    "painterBirthDate": "1863-12-12",
+    "imageUrl": "",
+    "artMovement": "Expressionisme",
+    "dominantColors": ["Bloedoranje", "Vurig rood", "Marineblauw", "Beige", "Zwart"],
+    "museumData": {
+      "id": "museum6",
+      "name": "Nasjonalmuseet",
+      "city": "Oslo",
+      "hasAudioTour": false,
+      "floorPlanImage": ""
+    }
+  },
+  {
+    "id": "painting7",
+    "title": "Het verraad van beelden",
+    "description": "Een surrealistisch werk van René Magritte dat de kijker dwingt na te denken over de representatie van objecten versus de realiteit.",
+    "yearCompleted": 1929,
+    "isRestored": false,
+    "painterBirthDate": "1898-11-21",
+    "imageUrl": "",
+    "artMovement": "Surrealisme",
+    "dominantColors": ["Tabaksbruin", "Creme", "Zwart", "Zandkleur", "Donkergrijs"],
+    "museumData": {
+      "id": "museum7",
+      "name": "LACMA",
+      "city": "Los Angeles",
+      "hasAudioTour": true,
+      "floorPlanImage": ""
+    }
+  },
+  {
+    "id": "painting8",
+    "title": "Het Lam Gods",
+    "description": "Een religieus veelluik van de gebroeders Van Eyck, geprezen om de ongekende details en het vroege gebruik van olieverftechnieken.",
+    "yearCompleted": 1432,
+    "isRestored": true,
+    "painterBirthDate": "1390-01-01",
+    "imageUrl": "",
+    "artMovement": "Vlaamse Primitieven",
+    "dominantColors": ["Koningsblauw", "Karmijnrood", "Grasgroen", "Goud", "Huidskleur"],
+    "museumData": {
+      "id": "museum8",
+      "name": "Sint-Baafskathedraal",
+      "city": "Gent",
+      "hasAudioTour": false,
+      "floorPlanImage": ""
+    }
+  },
+  {
+    "id": "painting9",
+    "title": "De Geboorte van Venus",
+    "description": "Sandro Botticelli verbeeldt de klassieke mythe van de godin Venus die op een schelp uit het schuim van de zee tevoorschijn komt.",
+    "yearCompleted": 1486,
+    "isRestored": true,
+    "painterBirthDate": "1445-03-01",
+    "imageUrl": "",
+    "artMovement": "Renaissance",
+    "dominantColors": ["Zeegroen", "Lichtroze", "Goudgeel", "Hemelsblauw", "Beige"],
+    "museumData": {
+      "id": "museum9",
+      "name": "Uffizi",
+      "city": "Florence",
+      "hasAudioTour": true,
+      "floorPlanImage": ""
+    }
+  },
+  {
+    "id": "painting10",
+    "title": "American Gothic",
+    "description": "Een iconisch portret van een boerenduo voor hun huis, symbool staand voor de standvastigheid van het Amerikaanse platteland.",
+    "yearCompleted": 1930,
+    "isRestored": false,
+    "painterBirthDate": "1891-02-13",
+    "imageUrl": "",
+    "artMovement": "Modernisme",
+    "dominantColors": ["Dennegroen", "Marineblauw", "Houtbruin", "Wit", "Huidskleur"],
+    "museumData": {
+      "id": "museum10",
+      "name": "Art Institute of Chicago",
+      "city": "Chicago",
+      "hasAudioTour": true,
+      "floorPlanImage": ""
+    }
+  }
+]
