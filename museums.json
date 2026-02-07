@@ -1,0 +1,72 @@
+[
+  {
+    "id": "museum1",
+    "name": "Musée du Louvre",
+    "city": "Parijs",
+    "hasAudioTour": true,
+    "floorPlanImage": ""
+  },
+  {
+    "id": "museum2",
+    "name": "Museum of Modern Art",
+    "city": "New York",
+    "hasAudioTour": true,
+    "floorPlanImage": ""
+  },
+  {
+    "id": "museum3",
+    "name": "Mauritshuis",
+    "city": "Den Haag",
+    "hasAudioTour": true,
+    "floorPlanImage": ""
+  },
+  {
+    "id": "museum4",
+    "name": "Museo Reina Sofía",
+    "city": "Madrid",
+    "hasAudioTour": true,
+    "floorPlanImage": ""
+  },
+  {
+    "id": "museum5",
+    "name": "Rijksmuseum",
+    "city": "Amsterdam",
+    "hasAudioTour": true,
+    "floorPlanImage": ""
+  },
+  {
+    "id": "museum6",
+    "name": "Nasjonalmuseet",
+    "city": "Oslo",
+    "hasAudioTour": false,
+    "floorPlanImage": ""
+  },
+  {
+    "id": "museum7",
+    "name": "LACMA",
+    "city": "Los Angeles",
+    "hasAudioTour": true,
+    "floorPlanImage": ""
+  },
+  {
+    "id": "museum8",
+    "name": "Sint-Baafskathedraal",
+    "city": "Gent",
+    "hasAudioTour": false,
+    "floorPlanImage": ""
+  },
+  {
+    "id": "museum9",
+    "name": "Uffizi",
+    "city": "Florence",
+    "hasAudioTour": true,
+    "floorPlanImage": ""
+  },
+  {
+    "id": "museum10",
+    "name": "Art Institute of Chicago",
+    "city": "Chicago",
+    "hasAudioTour": true,
+    "floorPlanImage": ""
+  }
+]
